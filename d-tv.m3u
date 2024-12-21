@@ -72,8 +72,7 @@ http://dmitry-tv.ddns.net/hls/T2/CH_NTV_MIR.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (-1)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV-1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
-#EXTVLCOPT:http-user-agent=WINK/1.30.1 (AndroidTV/9) HlsWinkPlayer
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
+https://s189.glaz.tv:8082/liveg/pyatyi-hq.stream/chunks.m3u8?nimblesessionid=359752910&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNCAxMjo1MTo0NSBQTSZoYXNoX3ZhbHVlPUVVRXRLTzl0cmI2VXphakF3YUF4RVE9PSZ2YWxpZG1pbnV0ZXM9MjAw
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+4)
