@@ -72,7 +72,7 @@ http://dmitry-tv.ddns.net/hls/T2/CH_NTV_MIR.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (-1)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV-1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
-https://serv30.vintera.tv/restream/5ch/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNCAxOjMyOjI0IFBNJmhhc2hfdmFsdWU9ejFWalJweUdycHl6Y3VVK0s4aGxsdz09JnZhbGlkbWludXRlcz00ODA=
+https://serv30.vintera.tv/restream/5ch/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAyNCAzOjAzOjAyIFBNJmhhc2hfdmFsdWU9dE9YU1ZQY0RQVUdSWmZkSkVmWXZNUT09JnZhbGlkbWludXRlcz00ODA=
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+4)
