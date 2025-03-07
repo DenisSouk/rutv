@@ -58,7 +58,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ HD
-http://dmitry-tv.ddns.net/hls/T2/CH_NTVHD.m3u8
+https://s.tivix.co/537/index.m3u8?k=1741391713p42i412i711i97S8d01ed055eef53a6bb47cee7f1ac7e4e
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+4)
